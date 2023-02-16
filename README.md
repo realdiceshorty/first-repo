@@ -2,4 +2,4 @@
 ## updating
 ## GIDA JOSHUA
 ## cloning 
-## updating from remote
+## updating from remotes
